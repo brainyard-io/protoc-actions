@@ -2,6 +2,7 @@
 # Protoc actions
 
 This actions allow you generate client and server for grpc
+This is daily build.
 
 # How to use
 
