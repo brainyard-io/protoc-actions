@@ -1,3 +1,4 @@
+![Docker Image CI](https://github.com/brainyard-io/protoc-actions/workflows/Docker%20Image%20CI/badge.svg?branch=master)
 # Protoc actions
 
 This actions allow you generate client and server for grpc
