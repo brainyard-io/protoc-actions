@@ -15,3 +15,5 @@ This actions allow you generate client and server for grpc
 - GRPC client server
 - GRPC gateway
 - Swagger from protofiles
+
+thanks @PxyUp
